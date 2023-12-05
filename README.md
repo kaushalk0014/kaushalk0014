@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaushalk0014
+- 👋 Hi, I’m @kaushal kumar
 - 👀 I’m interested in ... solving problems
 - 🌱 I’m currently learning ... data structure and algorithms
 - 💞️ I’m looking to collaborate on ...
